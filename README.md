@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, my name is Alexander Chentsov, but colleagues call me
+
+```
+                __                               
+  /\  |  _     /__  _  ._  o      _ |\/|  _. ._  
+ /--\ | (/_ >< \_| (/_ | | | |_| _> |  | (_| | | 
+                                                 
+```
+
+If you want to get more info about me, check my web-page: https://devgang.ru/AlexGeniusMan
+
 
 <!--
 **AlexGeniusMan/AlexGeniusMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
