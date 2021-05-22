@@ -1,5 +1,5 @@
 ### Hi, my name is Alexander Chentsov 😀
-I'm Backend developer and TeamLead at RealityGang - team of RTU IT Lab 🧐
+I'm Backend developer, TeamLead and Speaker at RealityGang - team of RTU IT Lab 🧐
 
 <!--
 ```
