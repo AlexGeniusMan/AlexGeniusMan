@@ -1,5 +1,7 @@
-### Hi, my name is Alexander Chentsov, but colleagues call me
+### Hi, my name is Alexander Chentsov 😀
+I'm Backend developer and TeamLead at RealityGang - team of RTU IT Lab 🧐
 
+<!--
 ```
 
     ___    __          ______           _            __  ___          
@@ -11,7 +13,6 @@
 
 ```
 
-<!--
 If you want to get more info about me, check my web-page: https://devgang.ru/AlexGeniusMan
 
 
