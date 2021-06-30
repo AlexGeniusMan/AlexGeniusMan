@@ -1,6 +1,8 @@
 ### Hi, my name is Alexander Chentsov 😀
 I'm Backend developer, TeamLead and Speaker at RealityX - team of RTU IT Lab 🧐
 
+Here you can see statistics on programming languages:
+![Main page](https://github.com/AlexGeniusMan/AlexGeniusMan/blob/master/readme-images/statistics.png?raw=true)
 <!--
 ```
 
