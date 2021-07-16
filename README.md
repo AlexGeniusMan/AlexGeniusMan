@@ -5,6 +5,8 @@ Here you can see statistics on programming languages:
 
 
 ![Main page](https://github.com/AlexGeniusMan/AlexGeniusMan/blob/main/readme-images/statistics.png?raw=true)
+
+Also you can check my (old!!!) CV here: https://devgang.ru/AlexGeniusMan
 <!--
 ```
 
