@@ -1,5 +1,5 @@
 ### Hi, my name is Alexander Chentsov 😀
-I'm Backend developer, TeamLead and Speaker at RealityX - team of RTU IT Lab 🧐
+I'm Backend developer, TeamLead and Speaker at RealityX - team of RTUITLab 🧐
 
 Here you can see statistics on programming languages:
 
