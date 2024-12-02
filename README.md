@@ -1,1 +1,1 @@
-5+ years of SWE experience (3+ full-time), inc. distributed systems, compute-intensive algorithms, leading 7 engineers
+5+ years of SWE experience (4+ full-time), inc. distributed systems, compute-intensive algorithms, leading a team of 7
